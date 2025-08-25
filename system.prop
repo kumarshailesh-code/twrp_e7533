@@ -1,0 +1,16 @@
+ro.vendor.mtk_trustkernel_tee_support=1
+ro.hardware.kmsetkey=trustkernel
+ro.hardware.gatekeeper=trustkernel
+ro.vendor.trustkernel.keystore=persist
+ro.board.platform=mt6765
+ro.product.first_api_level=29
+ro.secure=0
+ro.adb.secure=0
+ro.debuggable=1
+ro.sf.lcd_density=440
+persist.sys.isUsbOtgEnabled=true
+ro.sys.usb.mtp.whql.enable=0
+ro.sys.usb.storage.type=mtp
+ro.mediatek.platform=MT6765
+ro.hardware=mt6765
+ro.boot.dynamic_partitions=true
